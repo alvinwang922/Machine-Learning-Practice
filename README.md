@@ -1,6 +1,6 @@
-# Machine-Learning-Practice
+# Machine Learning Practice
 
-Practice training different machine learning models using TensorFlow.
+Practice training different machine learning models using TensorFlow and Scikit learn datasets.
 
 Currently includes:
 1) Linear Regression Models (predicting student grades based on their two previous grades, absences, failures, and time spent studying)
